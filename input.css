@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+}
+
+.border1{
+    
+    padding:4px;
+    
+    margin:10px;
+    padding:20px;
+   
+    color:#239239;
+}
+
+.bold{
+    font-weight:900;
+    text-transform:uppercase;
+    
+}
+.black{
+    background-color:rgb(212, 53, 53);
+    border-radius:3%;
+}
+
+.text-align{
+    text-align:center;
+}
+.drop-color{
+    background-color:blanchedalmond;
+}
+
+.test:hover{
+   background-color:aquamarine;
+   color:blueviolet;
+   
+}
+.space{
+    margin:200px 0px;
+}
+
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    margin:20px 0px;
+}
+h2{
+    text-align:center;
+}
+
+.padding{
+  padding:8px 0 0 0;
+}
+.pad1{
+    padding:0px;
+}
+.pad2{
+    padding:10px 0 0 0;
+}
+#brand-text{
+    text-align:right;
+    margin:0 16px;
+}
+div div div{
+    background-color: azure;
+}
